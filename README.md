@@ -17,6 +17,19 @@
 
 若本项目对您有所帮助，请在页面右上角点个 Star :star: 支持一下，谢谢！
 
+## 💻常用软件
+
+- 该栏目提供的工具只为提高效率，可能与项目核心有一定偏差。
+- 项目Release提供封装好的基础工具箱，工具箱将基于 [Maye Lite](https://github.com/25H/MayeLite) 进行相对路径封装，以便于解决路径问题，做到开箱即用。
+
+| 项目名称                                                 | 项目简介                                                     | 项目地址                                           | 项目文档                                     |
+| :------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------- | :------------------------------------------- |
+| [Maye Lite](https://github.com/25H/MayeLite)             | 专注于文件快速启动的简洁、轻量级工具<img src="./src/windows.svg" width="17" height="17" /> | [Github](https://github.com/25H/MayeLite)          | https://t.arae.cc/p/25804.html               |
+| [uTools](https://u.tools/)                               | 一个极简、插件化的现代桌面软件。<img src="./src/windows.svg" width="17" height="17" /> <img src="./src/linux.svg" width="17" height="17" /> <img src="./src/apple.svg" width="17" height="17" /> | [官网](https://u.tools/)                           | https://u.tools/docs/guide/about-uTools.html |
+| [Everything](https://www.voidtools.com/zh-cn/downloads/) | 一款强大的本地文件索引和搜索工具<img src="./src/windows.svg" width="17" height="17" /> | [官网](https://www.voidtools.com/zh-cn/downloads/) | /                                            |
+
+欢迎在issue中推荐更多的效率工具，但是请注意，适合自己的工具才是最好的，您并不需要下载所有的工具，请勿持有 ALL IN 思想。
+
 ## 🏴 CTF 工具合集
 
 ### 🪐  环境基础
